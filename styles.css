@@ -1,0 +1,11 @@
+.top-section {
+    background-color: #fff;
+    padding: 20px;
+    padding-top: 10px;
+    border: 1px solid black;
+    margin: 10px;
+  }
+  .beagle-image{
+    height: 200px;
+    width: 300px;
+  }
